@@ -198,16 +198,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "7ac8dc32274d0746",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
           }
         ],
         "currentTab": 5
@@ -228,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "597eeb1413a7e05c",
+  "active": "04e635833e4f519c",
   "lastOpenFiles": [
+    "README.md",
     "ТачМап/3_Дом-Базовое-состояние-Героя.md",
     "ТачМап/4_Рутина - Оценка рисков для покупки опционов на доли ЦРБ_.md",
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/черновики/tarantul (2).md",
