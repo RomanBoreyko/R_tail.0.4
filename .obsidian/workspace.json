@@ -11,24 +11,10 @@
             "id": "597eeb1413a7e05c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ТачМап/4_Рутина - Оценка рисков для покупки опционов на доли ЦРБ_.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4_Рутина - Оценка рисков для покупки опционов на доли ЦРБ_"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -218,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04e635833e4f519c",
+  "active": "2d57f2927954979f",
   "lastOpenFiles": [
+    "r-tail04/Добро пожаловать.md",
+    "r-tail04",
     "README.md",
     "ТачМап/3_Дом-Базовое-состояние-Героя.md",
     "ТачМап/4_Рутина - Оценка рисков для покупки опционов на доли ЦРБ_.md",
@@ -251,7 +239,6 @@
     "ноты Тарантула/1. Заказ/Заказ СХВ-КанцелярииИмператора",
     "ноты Тарантула/0_Рутина-НотаМантона.md",
     "ноты Тарантула/Пролог_ Нота Тарантула v.0.4.md",
-    "ноты Тарантула/Пролог- Нота Тарантула v.0.4. форматирование для обси.md",
     "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp",
     "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/Внутренний Покой",
     "img/Pasted image 20230619185651.png",
@@ -264,7 +251,6 @@
     "r-proj",
     "img/Pasted image 20230619191442.png",
     "img/Мех Чучело Домовцев.png",
-    "MDW.pdf",
     "ДоХХХХоrm/4_core/мех/Мех Чучело Домовцев.canvas",
     "ДоХХХХоrm/2Бек/img/Stairway_remake_concept_art.webp",
     "ДоХХХХоrm/2Бек/img/Untitled.canvas",
