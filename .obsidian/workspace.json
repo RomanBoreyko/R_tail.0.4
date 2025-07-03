@@ -11,13 +11,76 @@
             "id": "597eeb1413a7e05c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "tachmap/9_1_Запрет.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "9_1_Запрет"
+            }
+          },
+          {
+            "id": "c997e94299a76238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tachmap/10_Призыв.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "10_Призыв"
+            }
+          },
+          {
+            "id": "05005fee1024f54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tachmap/7_Отлучка.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "7_Отлучка"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 777.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +267,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d57f2927954979f",
+  "active": "05005fee1024f54e",
   "lastOpenFiles": [
+    "tachmap/6_Жажда_Недостача.md",
+    "tachmap/5_Золото.md",
+    "tachmap/7_Отлучка.md",
+    "tachmap/10_Призыв.md",
+    "tachmap/4_Рутина - Оценка рисков для покупки опционов на доли ЦРБ_.md",
+    "tachmap/3_0_Базовое-состояние_.md",
+    "tachmap/2_Вводная - Нота Тарантула v.0.4. форматирование для обси.md",
+    "tachmap/0_Пролог.md",
+    "tachmap/9_1_Запрет.md",
+    "tachmap/туду.md",
+    "tachmap/3_Дом-Базовое-состояние-Героя.md",
     "r-tail04/Добро пожаловать.md",
     "r-tail04",
     "README.md",
@@ -223,22 +297,11 @@
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/заметки/глубже/2_Серый-Дом (2).md",
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/заметки/глубже/2_Серый-Дом.md",
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/заметки/глубже/1_Блюм (2).md",
-    "old_5-3-25/arch-road/Arch/Arch_-3/1. Gold/timeline/1.md",
-    "old_5-3-25/ДоХХХХоrm/old/4_core/0м. 0. Фольклор к R(comedy). (2).md",
-    "old_5-3-25/ДоХХХХоrm/old/4_core/0м. 0. Фольклор к R(comedy)..md",
-    "ТачМап/0_Пролог.md",
     "ТачМап/image.png",
-    "ТачМап/4_Рутина - Оценка рисков.md",
-    "ТачМап/4_Рутина.md",
     "ТачМап/3_Дом-Базовое-состояние-Героя",
-    "ТачМап/2_Вводная - Нота Тарантула v.0.4. форматирование для обси.md",
-    "Без названия.md",
     "Хвосты Бледного/ридми",
     "Хвосты Бледного/Структура",
-    "Хвосты Бледного/1_Рутина-НотаМантона.md",
     "ноты Тарантула/1. Заказ/Заказ СХВ-КанцелярииИмператора",
-    "ноты Тарантула/0_Рутина-НотаМантона.md",
-    "ноты Тарантула/Пролог_ Нота Тарантула v.0.4.md",
     "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp",
     "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/Внутренний Покой",
     "img/Pasted image 20230619185651.png",
