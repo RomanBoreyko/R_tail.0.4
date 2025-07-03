@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tachmap/7_Отлучка.md",
+                "file": "tachmap/5_Золото.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7_Отлучка"
+              "title": "5_Золото"
             }
           }
         ],
@@ -270,14 +270,14 @@
   "active": "05005fee1024f54e",
   "lastOpenFiles": [
     "tachmap/6_Жажда_Недостача.md",
-    "tachmap/5_Золото.md",
     "tachmap/7_Отлучка.md",
+    "tachmap/9_1_Запрет.md",
     "tachmap/10_Призыв.md",
+    "tachmap/5_Золото.md",
     "tachmap/4_Рутина - Оценка рисков для покупки опционов на доли ЦРБ_.md",
     "tachmap/3_0_Базовое-состояние_.md",
     "tachmap/2_Вводная - Нота Тарантула v.0.4. форматирование для обси.md",
     "tachmap/0_Пролог.md",
-    "tachmap/9_1_Запрет.md",
     "tachmap/туду.md",
     "tachmap/3_Дом-Базовое-состояние-Героя.md",
     "r-tail04/Добро пожаловать.md",
