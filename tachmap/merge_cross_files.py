@@ -1,6 +1,7 @@
 print("Скрипт стартовал")
 
 import os
+import re
 
 # Задаём рабочую папку и имя итогового файла
 folder = r'c:\Users\User\Documents\r-note03\tachmap'
@@ -12,7 +13,12 @@ try:
 
     # Получаем список всех .md файлов, кроме исключённых
     files = [f for f in os.listdir(folder) if f.endswith('.md') and f not in exclude]
-    files.sort()
+    # files.sort()
+    # Сортируем файлы по естественному порядку
+    def natural_key(s):
+        return [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', s)]
+    files = sorted(files, key=natural_key)
+    
     print("Найдено файлов:", files)
 
     toc = []       # Список для оглавления
@@ -24,14 +30,16 @@ try:
         path = os.path.join(folder, filename)
         with open(path, encoding='utf-8') as f:
             lines = f.readlines()
-        title = None
-        # Ищем первый заголовок в файле для оглавления
-        for line in lines:
-            if line.strip().startswith('#'):
-                title = line.strip().lstrip('#').strip()
-                break
-        if not title:
-            title = filename
+        # title = None
+        # # Ищем первый заголовок в файле для оглавления
+        # for line in lines:
+        #     if line.strip().startswith('##'):
+        #         title = line.strip().lstrip('#').strip()
+        #         break
+        # if not title:
+        #     title = filename
+        # toc.append(f"{idx}. {title}")
+        title = filename
         toc.append(f"{idx}. {title}")
         # chapters.append(f"\n\n# Глава {idx}: {title}\n\n" + ''.join(lines))
         # Стало:

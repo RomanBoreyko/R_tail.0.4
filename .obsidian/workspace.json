@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tachmap/3_0_Базовое-состояние_.md",
+                "file": "tachmap/result.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3_0_Базовое-состояние_"
+              "title": "result"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tachmap/3_0_Базовое-состояние_.md",
+                "file": "tachmap/result.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,12 +181,12 @@
                   "repelStrength": 14.1684511063526,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.4755169750816404,
+                  "scale": 0.9346552651841042,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 3_0_Базовое-состояние_"
+              "title": "Граф result"
             }
           },
           {
@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1536
+    "width": 1058.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +220,15 @@
   },
   "active": "80ad6298f45805c8",
   "lastOpenFiles": [
-    "old_5-3-25/meh/shard-СХВ/Власти.md",
+    "tachmap/результаты/result.pdf",
+    "tachmap/результаты",
+    "tachmap/Новая папка",
+    "tachmap/2_Вводная.md",
+    "tachmap/3_Базовое-состояние_.md",
+    "tachmap/4_Рутина.md",
+    "tachmap/2_Вводная - Нота Тарантула v.0.5.md",
     "tachmap/3_0_Базовое-состояние_.md",
+    "old_5-3-25/meh/shard-СХВ/Власти.md",
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/группы/Удурги/ПГ/Власти/Власти.md",
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/группы/Удурги/ПГ/Власти/Власти (2).md",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев.canvas",
@@ -243,11 +250,6 @@
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/роли/Марк Бессмертник (2).md",
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/роли/Анна Ангел.md",
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/роли/Анна Ангел (2).md",
-    "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/роли/Серый-Дом/Бледный.md",
-    "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/роли/Серый-Дом/Бледный (2).md",
-    "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/роли/Начальство/Следак.md",
-    "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/роли/Начальство/Следак (2).md",
-    "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/роли/Начальство/Канцелярия Императора.md",
     "r-tail04",
     "ТачМап/4_Рутина - Оценка рисков для покупки опционов на доли ЦРБ_.html",
     "ТачМап/image.png",
@@ -259,12 +261,10 @@
     "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/Внутренний Покой",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
-    "img",
     "img/Pasted image 20230619190425.png",
     "img/Pasted image 20230619190456.png",
     "img/Pasted image 20230619190514.png",
     "img/Pasted image 20230619190602.png",
-    "r-proj",
     "img/Pasted image 20230619191442.png",
     "img/Мех Чучело Домовцев.png",
     "ДоХХХХоrm/4_core/мех/Мех Чучело Домовцев.canvas",
