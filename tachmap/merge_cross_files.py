@@ -4,7 +4,7 @@ import os
 import re
 
 # Задаём рабочую папку и имя итогового файла
-folder = r'c:\Users\User\Documents\r-note03\tachmap'
+folder = r'c:\Users\DoOs\R_tail04\tachmap'
 output_file = os.path.join(folder, 'result.md')
 
 try:
