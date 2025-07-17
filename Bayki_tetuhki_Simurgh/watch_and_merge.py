@@ -5,7 +5,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # Папка, за которой ведётся слежение
-WATCHED_FOLDER = r'c:\Users\DoOs\R_tail04\tachmap'
+WATCHED_FOLDER = r'c:\Users\DoOs\R_tail04\Bayki_tetuhki_Simurgh'
 # Имя скрипта для слияния файлов
 SCRIPT = 'merge_cross_files.py'
 # Файлы, которые не должны вызывать слияние при изменении
