@@ -11,24 +11,10 @@
             "id": "10ccc05aa43daea9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tachmap/3_Вира_Базовое-состояние_v06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3_Вира_Базовое-состояние_v06"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -158,7 +144,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tachmap/3_Вира_Базовое-состояние_v06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 3_Вира_Базовое-состояние_v06"
+              "title": "Граф"
             }
           },
           {
@@ -204,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,21 +205,24 @@
   },
   "active": "2d57f2927954979f",
   "lastOpenFiles": [
-    "tachmap/5_0_Мона_Золото-Зов-Глашатай v04.md",
-    "tachmap/2_Тарантул_Вводная_v04.md",
-    "tachmap/4_Вира_Рутина.md",
+    "Bayki_tetuhki_Simurgh/5_Мона-Золото.md",
+    "Bayki_tetuhki_Simurgh/результаты/5_Мона-Золото.md",
+    "Bayki_tetuhki_Simurgh/draft/5_0_Мона_Золото-Зов-Глашатай v04.md",
+    "Bayki_tetuhki_Simurgh/3_Вира_Базовое-состояние_v06.md",
+    "Bayki_tetuhki_Simurgh/5_0_Мона_Золото-Зов-Глашатай v04.md",
+    "Bayki_tetuhki_Simurgh/2_Тарантул_Вводная_v04.md",
+    "Bayki_tetuhki_Simurgh/4_Вира_Рутина.md",
     "tachmap/5_0_Мона_Золото-Зов-Глашатай v03.md",
-    "tachmap/0_Пролог.md",
-    "tachmap/3_Вира_Базовое-состояние_v06.md",
-    "tachmap/результаты/Проектный план подготовки Нины Лилич и Моны Шейн-Шиловски к вступительному конкурсу ИГИ.md",
-    "tachmap/результаты/Проектный план подготовки Нины Лилич и Моны Шейн-Шиловски к вступительному конкурсу ИГИ.pdf",
+    "Bayki_tetuhki_Simurgh/0_Пролог.md",
+    "Bayki_tetuhki_Simurgh/результаты/Проектный план подготовки Нины Лилич и Моны Шейн-Шиловски к вступительному конкурсу ИГИ.md",
+    "Bayki_tetuhki_Simurgh/результаты/Проектный план подготовки Нины Лилич и Моны Шейн-Шиловски к вступительному конкурсу ИГИ.pdf",
     "tachmap/результаты/План подготовки Нины Лилич и Моны Шейн-Шиловски к конкурсу ИГИ.md",
     "tachmap/4_Рутина.md",
     "tachmap/3_Базовое-состояние_.md",
     "tachmap/5_Золото.md",
-    "tachmap/6_Жажда_Недостача.md",
+    "Bayki_tetuhki_Simurgh/6_Жажда_Недостача.md",
     "tachmap/результаты/Проектный план Подготовка Нины и Моны к конкурсу ИГИ V-модель.md",
-    "tachmap/result.md",
+    "Bayki_tetuhki_Simurgh/result.md",
     "old_5-3-25/R_bardo.ipynb",
     "old_5-3-25/Клуб.md",
     "old_5-3-25/черенки_стервятника/gray-note/Оператор сценарного аппарата/2. Запуск ветки Маркус Бес Смертник",
@@ -253,11 +241,8 @@
     "tachmap/3_0_Базовое-состояние_.md",
     "old_5-3-25/meh/shard-СХВ/Власти.md",
     "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/группы/Удурги/ПГ/Власти/Власти.md",
-    "old_5-3-25/ДоХХХХоrm/old/2Бек/инфа/группы/Удурги/ПГ/Власти/Власти (2).md",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев.canvas",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев (2).canvas",
-    "old_5-3-25/ДоХХХХоrm/old/4_core/мех/чучела/Чучело.md",
-    "old_5-3-25/ДоХХХХоrm/old/4_core/мех/чучела/Чучело (2).md",
     "ТачМап/image.png",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
