@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-.md",
+                "file": "Bayki_tetuhki_Simurgh/4_Вира_Рутина.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5_1_Руководство-СУКА-"
+              "title": "4_Вира_Рутина"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-.md",
+                "file": "Bayki_tetuhki_Simurgh/4_Вира_Рутина.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 5_1_Руководство-СУКА-"
+              "title": "Граф 4_Вира_Рутина"
             }
           },
           {
@@ -220,11 +220,17 @@
   },
   "active": "10ccc05aa43daea9",
   "lastOpenFiles": [
+    "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-v02.md",
     "Bayki_tetuhki_Simurgh/5_0_Мона-Золото v06.md",
+    "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-.md",
+    "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-v02 (2).md",
+    "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-v02 (1).md",
+    "Bayki_tetuhki_Simurgh/источники/Пропп_Владимир_Морфология_волшебной_сказки_МИФ_Архетип_русская_культура.pdf",
+    "Bayki_tetuhki_Simurgh/источники/Эрик_Берн_Люди,_которые_играют_в_игры_2008.rtf",
+    "Bayki_tetuhki_Simurgh/источники/Эрик_Берн_Трансакционный_анализ_и_психотерапия_2008.rtf",
     "Bayki_tetuhki_Simurgh/источники/Arch_.md",
     "Bayki_tetuhki_Simurgh/4_Вира_Рутина.md",
     "Bayki_tetuhki_Simurgh/5_0_Мона-Золото.md",
-    "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-.md",
     "Bayki_tetuhki_Simurgh/5_Мона-Золото.md",
     "Bayki_tetuhki_Simurgh/результаты/5_Мона-Золото.md",
     "Bayki_tetuhki_Simurgh/draft/5_0_Мона_Золото-Зов-Глашатай v04.md",
@@ -249,13 +255,7 @@
     "old_5-3-25/черенки_стервятника/gray-note/Оператор сценарного аппарата/80. мона лиза",
     "old_5-3-25/черенки_стервятника/gray-note/Оператор сценарного аппарата/2.2. Ветка Маркуса. Играя в настолку",
     "old_5-3-25/черенки_стервятника/gray-note/Оператор сценарного аппарата/2.1. Ветка Маркуса. Настолка для Лилич",
-    "old_5-3-25/черенки_стервятника/gray-note/Оператор сценарного аппарата/1. Сет енд сетинг",
-    "old_5-3-25/черенки_стервятника/gray-note/Грёзы-Бри/2. Вход",
-    "old_5-3-25/черенки_стервятника/gray-note/Грёзы-Бри/1. Сет энд сетинг",
     "old_5-3-25/Хвосты Бледного/вира шхеры столица.md",
-    "old_5-3-25/Хвосты Бледного/1_Рутина-НотаМантона.md",
-    "old_5-3-25/ноты Тарантула/8. Инквизитор/Вероника Вира.md",
-    "tachmap/2_Вводная.md",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев.canvas",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев (2).canvas",
     "ТачМап/image.png",
