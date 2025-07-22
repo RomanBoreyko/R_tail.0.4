@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_psy.md",
+                "file": "Bayki_tetuhki_Simurgh/draft/R-arch/result.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch_psy"
+              "title": "result"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_psy.md",
+                "file": "Bayki_tetuhki_Simurgh/draft/R-arch/result.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Arch_psy"
+              "title": "Граф result"
             }
           },
           {
@@ -220,6 +220,7 @@
   },
   "active": "10ccc05aa43daea9",
   "lastOpenFiles": [
+    "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_psy.md",
     "Bayki_tetuhki_Simurgh/5_2_Конспект_Моны.md",
     "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-v02.md",
     "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_eng.md",
@@ -227,7 +228,6 @@
     "Bayki_tetuhki_Simurgh/источники/Конспект Подготовки Моны К Конкурсу Оператора Культуры-1.pdf",
     "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_fabula.md",
     "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_psy copy.md",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_psy.md",
     "Bayki_tetuhki_Simurgh/draft/R-arch/readme.md",
     "Bayki_tetuhki_Simurgh/draft/Настолка_/8. Зодчий и Песиглавцы.md",
     "Bayki_tetuhki_Simurgh/draft/Настолка_/7. Бес_ Проект Быков.md",
