@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayki_tetuhki_Simurgh/draft/R-arch/result.md",
+                "file": "Bayki_tetuhki_Simurgh/draft/сайбердел/0_2_Вводная.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "result"
+              "title": "0_2_Вводная"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bayki_tetuhki_Simurgh/draft/R-arch/result.md",
+                "file": "Bayki_tetuhki_Simurgh/draft/сайбердел/0_2_Вводная.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф result"
+              "title": "Граф 0_2_Вводная"
             }
           },
           {
@@ -220,6 +220,11 @@
   },
   "active": "10ccc05aa43daea9",
   "lastOpenFiles": [
+    "Bayki_tetuhki_Simurgh/draft/сайбердел/0_1_Пролог-сайбердел.md",
+    "Bayki_tetuhki_Simurgh/draft/сайбердел/набросы.md",
+    "Bayki_tetuhki_Simurgh/draft/сайбердел/0_2_Вводная.md",
+    "Bayki_tetuhki_Simurgh/draft/сайбердел",
+    "Bayki_tetuhki_Simurgh/draft/R-arch/result.md",
     "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_psy.md",
     "Bayki_tetuhki_Simurgh/5_2_Конспект_Моны.md",
     "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-v02.md",
@@ -248,14 +253,9 @@
     "old_5-3-25/newStep/structures/ВероникаВира.md",
     "old_5-3-25/ноты Тарантула/2. Производство/Создают Гамильтонского Крысолова.md",
     "old_5-3-25/ноты Тарантула/4. реальность/принятие.md",
-    "old_5-3-25/ноты Тарантула/5. Культ Паука или Серые/Серые.md",
-    "old_5-3-25/ноты Тарантула/7. Контрафакт и корапшин/Святоша.md",
-    "old_5-3-25/ноты Тарантула/8. Инквизитор/Вероника Вира.md",
     "Bayki_tetuhki_Simurgh/источники/Инженерный журнал Моны_ подготовка к конкурсу ИГИ.pdf",
-    "Bayki_tetuhki_Simurgh/5_3_Настолка.md",
     "Bayki_tetuhki_Simurgh/источники/Пропп_Владимир_Морфология_волшебной_сказки_МИФ_Архетип_русская_культура.pdf",
     "Bayki_tetuhki_Simurgh/источники/Эрик_Берн_Люди,_которые_играют_в_игры_2008.rtf",
-    "Bayki_tetuhki_Simurgh/источники/Эрик_Берн_Трансакционный_анализ_и_психотерапия_2008.rtf",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев.canvas",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев (2).canvas",
     "ТачМап/image.png",
