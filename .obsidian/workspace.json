@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97e40cf25c6abb06",
+        "id": "7c7407436cb04ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "10ccc05aa43daea9",
+            "id": "62aabf68210b5953",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bayki_tetuhki_Simurgh/draft/сайбердел/0_2_Вводная.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0_2_Вводная"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Шиловски",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5086555480957
+    "width": 376.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -158,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bayki_tetuhki_Simurgh/draft/сайбердел/0_2_Вводная.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,12 +167,12 @@
                   "repelStrength": 14.1684511063526,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.36244270486166064,
+                  "scale": 0.28029051456091403,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 0_2_Вводная"
+              "title": "Граф"
             }
           },
           {
@@ -204,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 467.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,44 +205,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10ccc05aa43daea9",
+  "active": "62aabf68210b5953",
   "lastOpenFiles": [
-    "Bayki_tetuhki_Simurgh/draft/сайбердел/0_1_Пролог-сайбердел.md",
-    "Bayki_tetuhki_Simurgh/draft/сайбердел/набросы.md",
-    "Bayki_tetuhki_Simurgh/draft/сайбердел/0_2_Вводная.md",
-    "Bayki_tetuhki_Simurgh/draft/сайбердел",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/result.md",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_psy.md",
-    "Bayki_tetuhki_Simurgh/5_2_Конспект_Моны.md",
-    "Bayki_tetuhki_Simurgh/5_1_Руководство-СУКА-v02.md",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_eng.md",
-    "Bayki_tetuhki_Simurgh/4_Вира_Рутина.md",
-    "Bayki_tetuhki_Simurgh/источники/Конспект Подготовки Моны К Конкурсу Оператора Культуры-1.pdf",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_fabula.md",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_psy copy.md",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/readme.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_/8. Зодчий и Песиглавцы.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_/7. Бес_ Проект Быков.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_/6.4. Кладбище.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_/6.2. Проект Быков.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_/6.1. Степь и Проект.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_/4. Маркус_ Заказ.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_/1. Клуб_ Ночь Когда Можно Говорить.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_/10. Ангел.md",
+    "old_5-3-25/ДоХХХХоrm/2Бек/инфа/группы/Шейн-Шиловски.md",
+    "Bayki_tetuhki_Simurgh/ВневременнаяСпираль/watch_and_merge.py",
+    "Bayki_tetuhki_Simurgh/ВневременнаяСпираль/result.md",
+    "Bayki_tetuhki_Simurgh/ВневременнаяСпираль/merge_cross_files.py",
+    "Bayki_tetuhki_Simurgh/ВневременнаяСпираль/4_Рутина_аналитика_v04.md",
+    "Bayki_tetuhki_Simurgh/ВневременнаяСпираль/3_Базовое-состояние_Вира_v06.md",
+    "Bayki_tetuhki_Simurgh/ВневременнаяСпираль/2_Вводная_нота_v04.md",
+    "Bayki_tetuhki_Simurgh/ВневременнаяСпираль/0_Пролог.md",
+    "Bayki_tetuhki_Simurgh/ВневременнаяСпираль",
+    "Bayki_tetuhki_Simurgh/R0_Q0/R0_Q0_1-Вводная.md",
+    "Bayki_tetuhki_Simurgh/R0_Q0/R0_Q0_Вводная.md",
+    "Bayki_tetuhki_Simurgh/источники/R0_Q0_.md",
+    "Bayki_tetuhki_Simurgh/R0_Q0/R0_Q0_.md",
+    "Bayki_tetuhki_Simurgh/R0_Q0",
+    "Bayki_tetuhki_Simurgh/Новая папка (2)",
+    "Bayki_tetuhki_Simurgh/Новая папка",
+    "Bayki_tetuhki_Simurgh/4_Рутина_аналитика_v04.md",
+    "Bayki_tetuhki_Simurgh/3_Базовое-состояние_Вира_v06.md",
+    "Bayki_tetuhki_Simurgh/2_Вводная_нота_v04.md",
+    "Bayki_tetuhki_Simurgh/0_Пролог.md",
+    "old_5-3-25/ДоХХХХоrm/2Бек/инфа/группы/Лилич.md",
+    "Bayki_tetuhki_Simurgh/источники/Районы_повышенной_опасности_Симург_Лозанна_obsidian(1).md",
+    "Bayki_tetuhki_Simurgh/draft/5_Золото.md",
+    "old_5-3-25/main-line/черновик/1. Бабушкин бизнес/1-5-Бурах_/1-5-Бурах.txt.md",
     "Bayki_tetuhki_Simurgh/draft/Настолка_/0. Структура.md",
-    "Bayki_tetuhki_Simurgh/draft/Настолка_",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_Mona.md",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/Arch_.md",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/bible/R_bone-bible",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/bible",
-    "Bayki_tetuhki_Simurgh/draft/R-arch/R_arch",
-    "Bayki_tetuhki_Simurgh/draft/R-arch",
-    "old_5-3-25/newStep/structures/ВероникаВира.md",
-    "old_5-3-25/ноты Тарантула/2. Производство/Создают Гамильтонского Крысолова.md",
-    "old_5-3-25/ноты Тарантула/4. реальность/принятие.md",
-    "Bayki_tetuhki_Simurgh/источники/Инженерный журнал Моны_ подготовка к конкурсу ИГИ.pdf",
-    "Bayki_tetuhki_Simurgh/источники/Пропп_Владимир_Морфология_волшебной_сказки_МИФ_Архетип_русская_культура.pdf",
-    "Bayki_tetuhki_Simurgh/источники/Эрик_Берн_Люди,_которые_играют_в_игры_2008.rtf",
+    "Мона Шейн-Шиловски.md",
+    "Без названия.md",
+    "Амадан на Бриина.md",
+    "old_5-3-25/newStep/dirt/Breena/0-dom-truppa-breena.md",
+    "old_5-3-25/newStep/dirt/Breena/0-dom-truppa-breena (2).md",
+    "Bayki_tetuhki_Simurgh/источники/Брифинг_Симург_Лозанна_clean.md",
+    "Bayki_tetuhki_Simurgh/источники/Турханов_Волшебный_карандаш_и_V_модель.pdf",
+    "Bayki_tetuhki_Simurgh/источники/Берн Эрик-Секс в человеческой любви-(Легенды психологии.Эрик Берн)-2017.a4.pdf",
+    "Bayki_tetuhki_Simurgh/источники/WD_Lausanne_AllSessions_v2.pdf",
+    "Bayki_tetuhki_Simurgh/источники/Брифинг для новоприбывших (Зона карантина Симург, Лозанна).pdf",
+    "Bayki_tetuhki_Simurgh/draft/image.png",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев.canvas",
     "old_5-3-25/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев (2).canvas",
     "ТачМап/image.png",
@@ -268,7 +255,6 @@
     "img/Pasted image 20230619191442.png",
     "img/Мех Чучело Домовцев.png",
     "ДоХХХХоrm/4_core/мех/Мех Чучело Домовцев.canvas",
-    "ДоХХХХоrm/2Бек/img/Stairway_remake_concept_art.webp",
     "ДоХХХХоrm/2Бек/img/Untitled.canvas",
     "ДоХХХХоrm/2Бек/img/Untitled 1.canvas"
   ]
